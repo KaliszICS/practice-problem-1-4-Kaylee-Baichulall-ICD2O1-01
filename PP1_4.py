@@ -2,7 +2,7 @@
 Lesson 3 - Input, concatenation and placeholders
 Author: Kaylee Baichulall
 Date Created: September 19th, 2024
-Date Last Modified: September 19th, 2024
+Date Last Modified: September 20th, 2024
 '''
 
 def q1():
@@ -19,9 +19,9 @@ def q3():
   print(f"{userFirstName} {userLastName}")
 
 def q4():
-  studentOne = input("Input a student: ")
-  studentTwo = input("Input another student: ")
-  print(f"Your students are {studentOne} and {studentTwo}")
+  student1 = input("Input a student: ")
+  student2 = input("Input another student: ")
+  print(f"Your students are {student1} and {student2}")
 
 #Do not edit code below this comment
 
